@@ -1,5 +1,18 @@
 # AngularPic
 
+---
+## Angular parte 1: Fundamentos
+### Faça esse curso de Angular e:
+
+- Adquira os fundamentos, a base para decolar com o framework
+- Aplique boas práticas desde o início
+- Crie seus primeiros componentes e diretivas
+- Aprenda a realizar comunicação entre componentes
+- Acelere seu desenvolvimento com Bootstrap 4
+- Domine a organização em módulos
+- Integre com o backend NodeJS como exemplo
+
+---
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 
 ## Development server
